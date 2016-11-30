@@ -7,6 +7,8 @@ echo "Operating System: Ubuntu"
 
 # update package manager
 echo "==> Updating package manager (1/4)"
+# add updating source for vim
+sudo add-apt-repository ppa:jonathonf/vim
 sudo apt-get update
 sudo apt-get upgrade
 
