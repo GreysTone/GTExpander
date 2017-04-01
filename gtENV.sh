@@ -17,6 +17,7 @@ then
   ## install basic package
   echo "==> Installing basic package (2/4)"
   sudo apt-get install -y zsh tmux curl
+  sudo apt-get install -y zsh tmux
   sudo apt-get install -y git cmake build-essential libncurses5-dev
   sudo apt-get install -y python-dev python3-dev
   sudo apt-get install -y libpython-dev libpython3-dev
