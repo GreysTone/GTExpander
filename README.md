@@ -1,5 +1,5 @@
-## GT NIX EXPANDER
+# GT NIX EXPANDER
 
-Expand GreysTone's Basic Setting
+This project expands GreysTone's Basic Setting including vim settings.
 
-Currently only support Ubuntu
+Currently it only supports Ubuntu system.
